@@ -1,0 +1,141 @@
+*{margin:0;
+ padding:0;
+ box-sizing: border-box;
+
+}
+header {
+   
+    background-color:yellow;
+    padding: 2%;
+    
+    
+    }
+    nav ul {
+        list-style-type: none;
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20% 20%;
+        text-align: center;
+        text-decoration: none;
+        font-size:larger;
+        list-style: None ;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin: 1%;
+        padding: 1%
+         
+       
+
+    }
+    
+    ul li a:hover{color: black;
+        
+
+
+    }
+    html,body{background-color: white;
+              display: flow-root;
+              
+    }
+h1{ text-align: center;
+padding: 1%;
+}
+img{width:50%;
+    height: auto;
+     margin-left:auto;
+    margin-right: auto;
+    display: block;
+    padding: 2%;
+    border-radius: 50%;
+
+
+}
+main{ padding:30px 20px;
+      width: 90vw;    
+      margin:0 auto;
+      min-height:calc(100vh - 84.19px - 62px);
+      text-align: center;
+      font-weight: bold;
+      font-size: large;
+
+
+}
+
+form{
+     text-align:center ;
+     padding: 10%;
+     transition: 2s ease-in-out;
+    color: coral;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+    letter-spacing: 1px;
+    float: center;
+    width: 85%;
+    min-width: 100px;
+    
+  
+    
+}
+main.image{width: 100px;
+              height: 100px;
+              margin-left: auto;
+              margin-right: auto;
+
+
+              
+              
+              
+
+}
+h5{font-size: 40px;
+   background-color: burlywood;
+    text-align: center;}
+
+main.P{
+    display: grid;
+    grid-template-columns:20% 60% 20%;
+    grid-template-rows:auto;
+    padding: 0%;
+    }
+
+
+h6 {font-size: 40px;
+
+}
+
+main.CV{display: grid;
+    grid-template-columns:20% 80%;
+    grid-template-rows:auto;
+    padding: 0%;
+    
+
+}
+article{background-color: burlywood;
+            
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: yellow;
+    color: black;
+    position: relative;
+    font-size:larger;
+    text-align: center;
+    padding: 20px;
+      
+    
+    
+   
+    
+
+}
+
